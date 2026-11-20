@@ -1,0 +1,13 @@
+
+{"ticket":"I was charged twice for my monthly subscription.","category":"Billing"}
+{"ticket":"Please send me a copy of my latest invoice.","category":"Billing"}
+{"ticket":"I want to request a refund for my payment.","category":"Billing"}
+{"ticket":"My credit card payment was declined.","category":"Billing"}
+{"ticket":"The application crashes whenever I open it.","category":"Technical"}
+{"ticket":"I am getting an error when uploading files.","category":"Technical"}
+{"ticket":"The dashboard takes too long to load.","category":"Technical"}
+{"ticket":"The software is not responding after the latest update.","category":"Technical"}
+{"ticket":"I forgot my password and cannot log in.","category":"Account"}
+{"ticket":"Please help me update my account email address.","category":"Account"}
+{"ticket":"My account has been locked after several login attempts.","category":"Account"}
+{"ticket":"I want to change my profile information.","category":"Account"}
